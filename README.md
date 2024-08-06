@@ -1,5 +1,5 @@
 # About
-Hello, I am Yasin, I am a backend developer. The function stack you see here is used to rotate the screenshot of a website.
+Hi there, Im Yasin, Im a backend dev. The function stack you see here is used to rotate the screenshot of a website.
 
 # Packages
 [express](https://www.npmjs.com/package/express)
